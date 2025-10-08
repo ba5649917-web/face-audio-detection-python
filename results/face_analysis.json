@@ -1,5 +1,12 @@
 {
   "video_path": "data/input.mp4",
   "fps": 30.01326281662928,
-  "total_frames": 611
+  "total_frames": 611,
+  "multi_face_events": [
+    {
+      "start_time": 6.96,
+      "end_time": 10.06,
+      "faces": 2
+    }
+  ]
 }
